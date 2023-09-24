@@ -1,0 +1,9 @@
+T8432:Tr-5:2023-09-22:2023-09-24:Port3:Port2:207.1739:[Container{ID='C-7', Type='dry storage', Weight=400.0, consumptionFuel=null}]:Anchored
+T9583:Sh-5:2023-09-22:2023-09-24:Port1:Port3:331.0671:[Container{ID='C-9', Type='dry storage', Weight=600.0, consumptionFuel=null}]:Anchored
+T9583:Sh-5:2023-09-22:2023-09-24:Port1:Port3:331.0671:[Container{ID='C-9', Type='dry storage', Weight=600.0, consumptionFuel=null}]:Anchored
+T93290:Sh-6:2023-09-22:2023-09-24:Port1:Port3:331.0671:[Container{ID='C-11', Type='dry storage', Weight=700.0, consumptionFuel=null}]:Anchored
+T93290:Sh-6:2023-09-22:2023-09-24:Port1:Port3:331.0671:[Container{ID='C-11', Type='dry storage', Weight=700.0, consumptionFuel=null}]:Anchored
+T83402:Sh-10:2023-09-22:2023-09-24:Port1:Port3:331.0671:[Container{ID='C-12', Type='dry storage', Weight=600.0, consumptionFuel=null}]:Anchored
+T83402:Sh-10:2023-09-22:2023-09-24:Port1:Port3:331.0671:[Container{ID='C-12', Type='dry storage', Weight=600.0, consumptionFuel=null}]:Anchored
+T39852:Sh-20:2023-09-22:2023-09-24:Port1:Port3:331.07:[]:Anchored
+T39852:Sh-20:2023-09-22:2023-09-24:Port1:Port3:331.07:[]:Anchored
